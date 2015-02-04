@@ -1,0 +1,19 @@
+{
+    "name": "dgtal/wkhtmltopdf-osx-x86-64",
+    "description": "Convert html to pdf using webkit (qtwebkit). Static linked OSX binary for x86-64 systems.",
+    "keywords": ["pdf", "thumbnail", "snapshot", "wkhtmltopdf", "convert", "binary"],
+    "license": "LGPL Version 3",
+    "homepage": "http://wkhtmltopdf.org/",
+    "authors": [
+        {
+            "name": "Rodrigo Muñoz",
+            "email": "rodrigoguzman@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/wkhtmltopdf-osx-x86-64"
+    ],
+    "require": {
+    }
+}
